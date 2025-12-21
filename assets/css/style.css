@@ -1,0 +1,46 @@
+body {
+    margin: 0;
+    font-family: Arial, sans-serif;
+    background-color: #f4f6f8;
+}
+
+/* HEADER */
+header {
+    background-color: #2c7be5;
+    color: white;
+    padding: 20px;
+    text-align: center;
+}
+
+/* MENU */
+nav {
+    background-color: #1e5bb8;
+    padding: 10px;
+    text-align: center;
+}
+
+nav a {
+    color: white;
+    margin: 0 15px;
+    text-decoration: none;
+    font-weight: bold;
+}
+
+nav a:hover {
+    text-decoration: underline;
+}
+
+/* KONTEN */
+main {
+    padding: 20px;
+    background-color: white;
+    margin: 20px;
+    border-radius: 8px;
+}
+
+/* FOOTER */
+footer {
+    background-color: #ddd;
+    text-align: center;
+    padding: 10px;
+}
